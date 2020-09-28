@@ -1,2 +1,2 @@
 # notes-app
-Simple React app for creating notes.
+Simple React app for creating notes. (to be built)
